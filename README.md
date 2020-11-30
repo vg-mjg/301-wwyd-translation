@@ -7,3 +7,7 @@ Please report typos or other errors, either in /mjg/ thread (50/50 I'll forget t
 
 ## Translation
 Using https://translateimages.site as a fast way to get unknown kanji, https://ichi.moe/ to get the meaning.
+
+
+## Pages to fix
+14, 31, 35, 67, 175, 185, 201
