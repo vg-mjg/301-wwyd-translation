@@ -10,4 +10,4 @@ Using https://translateimages.site as a fast way to get unknown kanji, https://i
 
 
 ## Pages to fix
-14, 31, 35, 67, 175, 185, 201
+none?
